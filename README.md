@@ -2,7 +2,8 @@
 
 Thank You for reading my resume.
 
-Mel Alvarez
+                      Mel Alvarez
+                      
 melalva71@gmail.com | 707-319-5718 | San Francisco, CA
 www.linkedin.com/in/mel-alvarez | https://github.com/alvamel
 
